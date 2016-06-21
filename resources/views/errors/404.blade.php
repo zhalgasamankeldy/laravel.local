@@ -1,0 +1,1 @@
+<h1 align="center">Ooop, 404</h1>
